@@ -1,4 +1,4 @@
-# terraform-aws
+# terraform-aws-eks
 
 To authenticate against AWS EKS make sure followings are installed:
 1. AWS CLI
